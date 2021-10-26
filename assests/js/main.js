@@ -1,5 +1,4 @@
 var grid=document.getElementById("grid");
-console.log(grid)
 var imagePath=["assests/img/1.webp","assests/img/2.webp","assests/img/3.webp","assests/img/4.webp","assests/img/5.webp","assests/img/6.webp","assests/img/7.webp","assests/img/8.webp","assests/img/9.webp"];
 var title=["minimal design","Paint wall","female light","fourth air","multiply fowl","together sign","green heaven","fly male","season face",]
 for(var i=0 ; i<9;i++)
